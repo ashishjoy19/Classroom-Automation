@@ -8,7 +8,7 @@ Real-Time Monitoring: Captures live footage for real-time attendance tracking du
 Google Sheets Integration: Stores attendance data in a Google Sheets document via the Google Sheets API.
 Arduino Uno Control: Allows automation of electrical appliances in the classroom using an Arduino Uno and relay module.
 
-##Setup Instructions
+## Setup Instructions
 Clone the Repository:
 
 bash
